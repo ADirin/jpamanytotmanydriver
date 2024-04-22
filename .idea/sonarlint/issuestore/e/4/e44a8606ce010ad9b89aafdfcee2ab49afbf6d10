@@ -1,0 +1,9 @@
+
+V
+java:S1220""Move this file to a named package.J$b54544d9-1894-4208-ac27-84477a862eae
+
+java:S25893"7Remove this expression which always evaluates to "true"(φΛ…ψÿÿÿÿ8ώΉ¤π1J$0d50fb6a-443a-44f3-b641-b870867da5e5
+r	java:S106+"+Replace this use of System.out by a logger.(Ήέωÿÿÿÿ8…αρθο1J$4ac49134-494a-4525-8dfd-bd5f5f8a594a
+r	java:S106,"+Replace this use of System.out by a logger.(§ΎΉΆϊÿÿÿÿ8†αρθο1J$988e266b-b569-4ef9-8de3-c8cec6f17196
+m	java:S106."+Replace this use of System.out by a logger.(¨ΪΌÿ8‡αρθο1J$48002de3-e6bf-4559-94c6-788ba1665eb7
+r	java:S1060"+Replace this use of System.out by a logger.(ªΣΌαώÿÿÿÿ8αρθο1J$aa6eef53-cc73-466a-ac9c-a1861bf85994
